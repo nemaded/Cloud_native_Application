@@ -1,0 +1,50 @@
+2023-11-26 13:47:58,294 - root - INFO - Attempting authentication for user: jane.doe@example.com
+2023-11-26 13:47:58,549 - root - INFO - User authenticated successfully: jane.doe@example.com
+2023-11-26 13:47:58,553 - root - INFO - Assignment creation attempted [Method: POST, Path: /assignments, Client: 127.0.0.1, User: jane] - Success: Assignment created 
+2023-11-26 14:44:54,633 - root - INFO - Attempting authentication for user: jane.doe@example.com
+2023-11-26 14:44:55,107 - root - INFO - User authenticated successfully: jane.doe@example.com
+2023-11-26 14:44:55,109 - root - INFO - Assignment creation attempted [Method: POST, Path: /assignments, Client: 127.0.0.1, User: jane] - Success: Assignment created 
+2023-11-26 14:49:32,840 - root - INFO - Attempting authentication for user: .doe@example.com
+2023-11-26 14:49:32,843 - root - WARNING - Authentication failed: No user found with username .doe@example.com
+2023-11-26 14:49:44,185 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 14:49:44,658 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 14:50:14,368 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 14:50:14,840 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 14:50:14,842 - root - INFO - User john.doe@example.com is submitting an assignment.
+2023-11-26 14:51:21,930 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 14:51:22,407 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 14:51:22,409 - root - INFO - User john.doe@example.com is submitting an assignment.
+2023-11-26 14:52:23,996 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 14:52:24,467 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 14:52:24,468 - root - INFO - User john.doe@example.com is submitting an assignment.
+2023-11-26 14:52:24,499 - root - INFO - User john.doe@example.com successfully submitted assignment 91b78e7c-649d-4feb-a9d5-0894fe8aab1b.
+2023-11-26 14:52:47,808 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 14:52:48,285 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 14:52:48,286 - root - INFO - User john.doe@example.com is submitting an assignment.
+2023-11-26 14:52:48,294 - root - INFO - User john.doe@example.com successfully submitted assignment 91b78e7c-649d-4feb-a9d5-0894fe8aab1b.
+2023-11-26 14:53:39,190 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 14:53:39,665 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 14:53:39,666 - root - INFO - User john.doe@example.com is submitting an assignment.
+2023-11-26 14:53:39,669 - root - WARNING - User john.doe@example.com has exceeded the maximum number of submission attempts for assignment 91b78e7c-649d-4feb-a9d5-0894fe8aab1b.
+2023-11-26 14:54:18,243 - root - INFO - Attempting authentication for user: jane.doe@example.com
+2023-11-26 14:54:18,715 - root - INFO - User authenticated successfully: jane.doe@example.com
+2023-11-26 14:54:18,717 - root - INFO - Assignment creation attempted [Method: POST, Path: /assignments, Client: 127.0.0.1, User: jane] - Success: Assignment created 
+2023-11-26 14:54:46,482 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 14:54:46,965 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 14:54:46,966 - root - INFO - User john.doe@example.com is submitting an assignment.
+2023-11-26 14:54:46,972 - root - WARNING - Submission deadline has passed for assignment with ID: 0b0d889c-4c27-40d8-9e8d-ba1eed8807fc.
+2023-11-26 14:54:52,118 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 14:54:52,594 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 14:54:52,595 - root - INFO - User john.doe@example.com is submitting an assignment.
+2023-11-26 14:54:52,602 - root - ERROR - Assignment with ID: 0b0d889c-c27-40d8-9e8d-ba1eed8807fc not found.
+2023-11-26 14:54:59,472 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 14:54:59,944 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 14:54:59,945 - root - INFO - User john.doe@example.com is submitting an assignment.
+2023-11-26 14:54:59,947 - root - WARNING - Submission deadline has passed for assignment with ID: 0b0d889c-4c27-40d8-9e8d-ba1eed8807fc.
+2023-11-26 15:33:20,709 - root - INFO - Attempting authentication for user: jane.doe@example.com
+2023-11-26 15:33:21,181 - root - INFO - User authenticated successfully: jane.doe@example.com
+2023-11-26 15:33:21,182 - root - INFO - Assignment creation attempted [Method: POST, Path: /assignments, Client: 127.0.0.1, User: jane] - Success: Assignment created 
+2023-11-26 15:33:43,440 - root - INFO - Attempting authentication for user: john.doe@example.com
+2023-11-26 15:33:43,913 - root - INFO - User authenticated successfully: john.doe@example.com
+2023-11-26 15:33:43,914 - root - INFO - User john.doe@example.com is submitting an assignment.
+2023-11-26 15:33:43,933 - root - INFO - User john.doe@example.com successfully submitted assignment 901578e7-1fb4-4e46-a3d2-0cc5e30fc277.

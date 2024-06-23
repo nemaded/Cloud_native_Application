@@ -1,0 +1,14 @@
+first_name,last_name,email,password
+john,doe,john.doe@example.com,abc123
+jane,doe,jane.doe@example.com,xyz456
+darshan,nemade,darshab@example.com,abc456
+anuja,nemade,anuja@example.com,$2b$12$pcHanBsgw.1B2642BzH1t.AFxdqaakapCSYJfQqsgiy/WgNbVSL0m
+rohan,nemade,rohan@example.com,$2b$12$l05F8HkaEhZQRvirZKPNX.0woVGWs769INJHG6wrrKIzoNwg4z0EK
+ankithh,reddy,ankith@example.com,$2b$12$AMiMqfqiq4r7n5kwHgWy5.p049HQnPBg86/EUSVGO7u7395lrzsOy
+sai,deepak,dogiparthi.sai@northeastern.edu,abc123
+shikha,singh,singh.shikha@northeastern.edu,abc123
+souvik,dinda,dinda.s@northeastern.edu,abc123
+rishab,rajesh,agarwal.risha@northeastern.edu,abc123
+raushan,kumar,jha.rau@northeastern.edu,abc123
+nagendra,babu,shakamuri.n@northeastern.edu,abc123
+aditya,sawant,sawant.adit@northeastern.edu,abc123

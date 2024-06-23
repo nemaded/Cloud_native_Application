@@ -1,0 +1,13 @@
+[Unit]
+Description=My FastAPI Application
+After=cloud-final.Service
+
+[Service]
+User=csye6225
+WorkingDirectory=/opt/csye6225
+ExecStart=/opt/csye6225/myenv/bin/python3 /opt/csye6225/myenv/bin/uvicorn App.main:app --host 0.0.0.0 --port 8000
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+WantedBy=cloud-init.target
