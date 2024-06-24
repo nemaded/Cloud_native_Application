@@ -1,0 +1,8 @@
+config:
+  aws:region: us-east-1
+  aws:profile: demo
+  vpc:cidrBlock: "10.0.0.0/16"
+  vpc:availabilityZones: "us-east-1a,us-east-1b,us-east-1c"
+  vpc:ssh_key_pair: aws_demo_key_pair
+  vpc:port_no: 8000
+  host_name:name: "demo.darshannemade.me"
